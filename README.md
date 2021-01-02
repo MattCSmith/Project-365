@@ -12,3 +12,5 @@ It would make my day if this encourages even one person to sign up to the 100 Da
 - Subscribe on [**Youtube**](https://www.youtube.com/channel/UCQnCh_U9PeXh_7FaxUB7Lsg) for weekly update videos.
 
 ## Day 1
+Spent a good couple of hours setting up and configuring Gatsby, Contentful and Netlify as the foundation to the first project.
+Worked a little on bringing the exisiting navbar and landing page to the newsite with Styled-Components.
