@@ -14,3 +14,7 @@ It would make my day if this encourages even one person to sign up to the 100 Da
 ## Day 1
 Spent a good couple of hours setting up and configuring Gatsby, Contentful and Netlify as the foundation to the first project.
 Worked a little on bringing the exisiting navbar and landing page to the newsite with Styled-Components.
+
+
+## Day 2 
+Today was really a project architecture day. Starting out with project mapping, followed by creating some Contentful content types and finished up with a little component. 
