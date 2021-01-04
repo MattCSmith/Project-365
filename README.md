@@ -18,3 +18,6 @@ Worked a little on bringing the exisiting navbar and landing page to the newsite
 
 ## Day 2 
 Today was really a project architecture day. Starting out with project mapping, followed by creating some Contentful content types and finished up with a little component. 
+
+## Day 3
+Spent an hour today building out the footer component, making consideration on how I want to integrate this to Contentful in the near future. Also spent a little time considering a couple of features I want to implement down the road. 
