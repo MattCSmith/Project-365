@@ -21,3 +21,6 @@ Today was really a project architecture day. Starting out with project mapping, 
 
 ## Day 3
 Spent an hour today building out the footer component, making consideration on how I want to integrate this to Contentful in the near future. Also spent a little time considering a couple of features I want to implement down the road. 
+
+##Day 4
+Built out a Contentful content type for the footer and integrated it into the footer. Worked on the community section of the homepage, bringing the homepage to an almost complete state. A few tweaks and mobile quires should be enough to finish this page off. 
