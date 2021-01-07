@@ -25,6 +25,8 @@ Spent an hour today building out the footer component, making consideration on h
 ## Day 4
 Built out a Contentful content type for the footer and integrated it into the footer. Worked on the community section of the homepage, bringing the homepage to an almost complete state. A few tweaks and mobile quires should be enough to finish this page off. 
 
-
 ## Day 5
 Set up Gatsby to dynamically create pages for each game server, based on the data it gets from the Contentful model. Experienced a weird issue where netlify does not appear to have the style sheet for the new page. Will investigate more tomorrow. 
+
+## Day 6 
+Investigated the bug that plagues the server page, unfortunately it remains unsolved for now. Its appear not to be utilising styled components on these generated pages. 
