@@ -30,3 +30,10 @@ Set up Gatsby to dynamically create pages for each game server, based on the dat
 
 ## Day 6 
 Investigated the bug that plagues the server page, unfortunately it remains unsolved for now. Its appear not to be utilising styled components on these generated pages. 
+
+## Day 7
+With a little help finally solved the issue with the server page today. I plan to spend the time reading the articles I was provided below to fully understand the issue at hand. But essentially, local was using a webpack file to directly build from the dependancies with a webpack server, where production was building out the static Gatsby files.  
+- [Understanding the Gatsby lifecycle](https://www.narative.co/articles/understanding-the-gatsby-lifecycle)
+- [Gatsby bootstrap lifecycle](https://gist.github.com/sw-yx/09306ec03df7b4cd8e7469bb74c078fb)
+- [The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
+
