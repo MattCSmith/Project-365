@@ -37,3 +37,5 @@ With a little help finally solved the issue with the server page today. I plan t
 - [Gatsby bootstrap lifecycle](https://gist.github.com/sw-yx/09306ec03df7b4cd8e7469bb74c078fb)
 - [The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 
+## Day 8
+Added infinite scroll to the member cards and implmeneted drop down menus to the navigation bar. 
