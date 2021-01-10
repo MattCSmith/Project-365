@@ -41,4 +41,4 @@ With a little help finally solved the issue with the server page today. I plan t
 Added infinite scroll to the member cards and implmeneted drop down menus to the navigation bar. 
 
 ## Day 9
-Finshed building out the server page template, cleaned up the design a little bit. 
+Made some decent progress on the server page template. Still a few things I want to add, but that might come in a future iteration. 
