@@ -42,3 +42,6 @@ Added infinite scroll to the member cards and implmeneted drop down menus to the
 
 ## Day 9
 Made some decent progress on the server page template. Still a few things I want to add, but that might come in a future iteration. 
+
+## Day 10 
+Fixed a deployment issue with the tooltips and implemented the server file download section. 
