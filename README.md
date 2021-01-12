@@ -45,3 +45,7 @@ Made some decent progress on the server page template. Still a few things I want
 
 ## Day 10 
 Fixed a deployment issue with the tooltips and implemented the server file download section. 
+
+## Day 11
+Spent some time today cleaning up the code to make it more efficient. Also restyled the member cards a little bit to match the styling on the server page. 
+I'm not pushing the latest changes this evening since I broke/removed alot to make the chances to the homepage. I'll push up tomorrow when I have it in a much better state. 
