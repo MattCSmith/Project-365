@@ -44,7 +44,7 @@ Added infinite scroll to the member cards and implmeneted drop down menus to the
 Made some decent progress on the server page template. Still a few things I want to add, but that might come in a future iteration. 
 
 ## Day 10 
-Fixed a deployment issue with the tooltips and implemented the server file download section. 
+Fixed a deployment tooltip issue and implemented a file download section. Aside from some styling and minor tweaks this completes the server page. 
 
 ## Day 11
 Spent some time today cleaning up the code to make it more efficient. Also restyled the member cards a little bit to match the styling on the server page. 
