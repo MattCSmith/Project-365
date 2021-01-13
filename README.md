@@ -49,3 +49,6 @@ Fixed a deployment tooltip issue and implemented a file download section. Aside 
 ## Day 11
 Spent some time today cleaning up the code to make it more efficient. Also restyled the member cards a little bit to match the styling on the server page. 
 I'm not pushing the latest changes this evening since I broke/removed alot to make the chances to the homepage. I'll push up tomorrow when I have it in a much better state. 
+
+## Day 12
+Today was one of those days where motivation and cognitive ability was rather on the low side, due to a busy and overwhelming personal day. As a planned method to deal with days like these, I switched up the routine a little bit, working on content, laying it out and making small optimisations to the code and styling and other non demanding tasks I had otherwise been putting off. Overall I am feeling rather happy with the progression of the project in just 12 days. 
