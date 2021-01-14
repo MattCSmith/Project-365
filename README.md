@@ -52,3 +52,7 @@ I'm not pushing the latest changes this evening since I broke/removed alot to ma
 
 ## Day 12
 Today was one of those days where motivation and cognitive ability was rather on the low side, due to a busy and overwhelming personal day. As a planned method to deal with days like these, I switched up the routine a little bit, working on content, laying it out and making small optimisations to the code and styling and other non demanding tasks I had otherwise been putting off. Overall I am feeling rather happy with the progression of the project in just 12 days. 
+
+## Day 12
+Spent time refactoring the pages today. Hardcoded content on the index page is now fetched from Contenful. All of the original title bars have been replaced with the new Floating title bar component. 
+Hoping tomorrow, I can look into creating an application form that is powered by Netlify forms and integrates with PlanBs Discord bot via Netlify's serverless functions. 
