@@ -59,3 +59,6 @@ Hoping tomorrow, I can look into creating an application form that is powered by
 
 ## Day 14
 Form time! Started laying out the form and making considerations on how I want this to intereact with both Netlify forms and the Discord bot. The current system has the form hits the bots endpoint directly. Which is great but this was a great opportunity to experiemtn with Netlify forms and deal with a flaw in the current system. If the Discord bot was down or errored out, the applicants data would be lost. With Netlify forms we have a failsafe. 
+
+## Day 15 
+Bug Hunting! Today was unforuntatly no very productive due to the realisation that forms are not discoved by as Netlify forms if they are state dependant. Because I want to conditionally render the form, I will need to figure out another method. 
