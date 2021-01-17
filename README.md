@@ -62,3 +62,6 @@ Form time! Started laying out the form and making considerations on how I want t
 
 ## Day 15 
 Bug Hunting! Today was unforuntatly no very productive due to the realisation that forms are not discoved by as Netlify forms if they are state dependant. Because I want to conditionally render the form, I will need to figure out another method. 
+
+## Day 16
+Switched things up today and worked on a small Node project. Half way through this micro project, will reveal more once complete. 
