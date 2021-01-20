@@ -68,3 +68,9 @@ Switched things up today and worked on a small Node project. Half way through th
 
 ## Day 17
 Worked on the frontend for the secret micro project today. Was a nice change going back to plain react. Its been that long I forgot how things like React Router worked. Was a good little refresher project all round. Also remembered why I hate CORs
+
+## Day 18
+Refactoring the backend and looked into ways to improve the project. Also Identified a couple of bugs that need fixing. 
+
+## Day 19
+The twitter bot I have been working on picks up a lot of irrelevant content and spam. Spent some time looking into the Sentiment npm package, which is pretty cool. But it wasn't really build to solve the problem I was facing, so I build a basic version of Sentiment that fit my needs. 
