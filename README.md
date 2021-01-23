@@ -75,3 +75,12 @@ Refactoring the backend and looked into ways to improve the project. Also Identi
 
 ## Day 19
 The twitter bot I have been working on picks up a lot of irrelevant content and spam. Spent some time looking into the Sentiment npm package, which is pretty cool. But it wasn't really build to solve the problem I was facing, so I build a basic version of Sentiment that fit my needs. 
+
+## Day 20 
+Worked on a couple of methods to reduce the spam collected by the twitter bot. Unfortunately nothing seems to be perfect. 
+
+## Day 21 
+Worked on the Twitter bots logging system, logging sample Tweets ready for analysis to help improve the filtering process. 
+
+# Day 22 
+Today I worked on a dummy implementation of One Time Password authentication. Authentication is often something that comes up in projects I get involved with, so I thought it would be worth investing sometime figuring different auth types. 
