@@ -82,5 +82,8 @@ Worked on a couple of methods to reduce the spam collected by the twitter bot. U
 ## Day 21 
 Worked on the Twitter bots logging system, logging sample Tweets ready for analysis to help improve the filtering process. 
 
-# Day 22 
+## Day 22 
 Today I worked on a dummy implementation of One Time Password authentication. Authentication is often something that comes up in projects I get involved with, so I thought it would be worth investing sometime figuring different auth types. 
+
+## Day 23
+Finalised the filtering system on the Twitter bot and heavily refactored the code base. I am now confident the project is in great shape for maintenance and future development. Just a few things left to tidy up and a couple of features to implement.  
