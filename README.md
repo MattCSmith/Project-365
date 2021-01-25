@@ -87,3 +87,10 @@ Today I worked on a dummy implementation of One Time Password authentication. Au
 
 ## Day 23
 Finalised the filtering system on the Twitter bot and heavily refactored the code base. I am now confident the project is in great shape for maintenance and future development. Just a few things left to tidy up and a couple of features to implement.  
+
+## Day 24
+✅ Refactor complete
+✅Improved API
+✅Implemented #jsdoc, will be using this in all my future projects!
+
+Note: [JSDoc](https://jsdoc.app/about-getting-started.html) is such simple yet underated functionality to annotate functions. Great in multi-contributor projects but also in solo projects. I have lost count the amount of times I have to go look up what params my functions take. 
