@@ -89,8 +89,15 @@ Today I worked on a dummy implementation of One Time Password authentication. Au
 Finalised the filtering system on the Twitter bot and heavily refactored the code base. I am now confident the project is in great shape for maintenance and future development. Just a few things left to tidy up and a couple of features to implement.  
 
 ## Day 24
-✅ Refactor complete
-✅Improved API
-✅Implemented #jsdoc, will be using this in all my future projects!
+- ✅ Refactor complete
+- ✅ Improved API
+- ✅ Implemented #jsdoc, will be using this in all my future projects!
 
 Note: [JSDoc](https://jsdoc.app/about-getting-started.html) is such simple yet underated functionality to annotate functions. Great in multi-contributor projects but also in solo projects. I have lost count the amount of times I have to go look up what params my functions take. 
+
+## Day 25
+- ✅ Added caching to the API endpoints
+- ✅ Found and fixed an evasive bug
+- ✅ API improvements
+
+Caching endpoints was something I have often overlooked when working on APIs and something I have never worked with before. So it was great to learn something new, but it should also prove super useful in reducing the APIs response time. Which on some endpoints can be a little longer that I would have liked, I might have to consider breaking up the data served on some of these endpoints or even consider pagination of some sort. 
