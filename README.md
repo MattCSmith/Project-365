@@ -101,3 +101,8 @@ Note: [JSDoc](https://jsdoc.app/about-getting-started.html) is such simple yet u
 - ✅ API improvements
 
 Caching endpoints was something I have often overlooked when working on APIs and something I have never worked with before. So it was great to learn something new, but it should also prove super useful in reducing the APIs response time. Which on some endpoints can be a little longer that I would have liked, I might have to consider breaking up the data served on some of these endpoints or even consider pagination of some sort. 
+
+## Day 26
+- ✅ Further API enhancements
+
+Scope creep can be a real problem in project. I think today I realised just how far this project has crept. The API is looking much better for it, but I may need to consider drawing a line for V1 release. 
