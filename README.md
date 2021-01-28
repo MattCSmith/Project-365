@@ -106,3 +106,10 @@ Caching endpoints was something I have often overlooked when working on APIs and
 - ✅ Further API enhancements
 
 Scope creep can be a real problem in project. I think today I realised just how far this project has crept. The API is looking much better for it, but I may need to consider drawing a line for V1 release. 
+
+## Day 27
+- ✅ Completed the API, pending some minor tweaks required by testing
+- ✅ Cleaned up the code
+- ✅ Deployed
+
+I consider v1 of the backend portion of this project complete. I will be closely monitoring it running over the next couple of days and making minor tweaks as required. 
