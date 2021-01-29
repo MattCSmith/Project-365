@@ -113,3 +113,8 @@ Scope creep can be a real problem in project. I think today I realised just how 
 - ✅ Deployed
 
 I consider v1 of the backend portion of this project complete. I will be closely monitoring it running over the next couple of days and making minor tweaks as required. 
+
+## Day 28
+- ✅ Mapped out a rough plan for v1 of the front end
+- ✅ Made some adjustments to the front end and fixed leaderboard
+- ✅ Spent some time looking over the backend logs and database, identified some bugs
