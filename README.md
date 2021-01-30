@@ -118,3 +118,7 @@ I consider v1 of the backend portion of this project complete. I will be closely
 - ✅ Mapped out a rough plan for v1 of the front end
 - ✅ Made some adjustments to the front end and fixed leaderboard
 - ✅ Spent some time looking over the backend logs and database, identified some bugs
+
+## Day 29
+- ✅ Fixed API bugs identified yesterday
+- ✅ Leader card style and feature enhancements
