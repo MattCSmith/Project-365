@@ -122,3 +122,9 @@ I consider v1 of the backend portion of this project complete. I will be closely
 ## Day 29
 - ✅ Fixed API bugs identified yesterday
 - ✅ Leader card style and feature enhancements
+
+## Day 30
+- ✅ Enhanced the leader card styling
+- ✅ Implmented placeholder animations
+
+Love the cool effect packages such as `react-content-loader` can add to the loading state of an application. 
