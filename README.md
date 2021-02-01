@@ -128,3 +128,9 @@ I consider v1 of the backend portion of this project complete. I will be closely
 - ✅ Implmented placeholder animations
 
 Love the cool effect packages such as `react-content-loader` can add to the loading state of an application. 
+
+## Day 31
+- ✅ Implemented Google Analytics and Tag Manager
+- ✅ Finished styling and functionality of all components and pages. 
+
+- ✅ Project is almost complete.
