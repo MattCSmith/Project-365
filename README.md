@@ -134,3 +134,8 @@ Love the cool effect packages such as `react-content-loader` can add to the load
 - ✅ Finished styling and functionality of all components and pages. 
 
 - ✅ Project is almost complete.
+
+## Day 32
+- ✅ Discovered 3 bugs
+- ✅ Fixed one & added some console.logs to capture more data for another
+- ✅ Spent some time considering workarounds for a pretty critical issue with not being able to fetch the users timezone from the twitter API. Without the users timezone I can't accurately check dates for continuity. 
