@@ -139,3 +139,7 @@ Love the cool effect packages such as `react-content-loader` can add to the load
 - ✅ Discovered 3 bugs
 - ✅ Fixed one & added some console.logs to capture more data for another
 - ✅ Spent some time considering workarounds for a pretty critical issue with not being able to fetch the users timezone from the twitter API. Without the users timezone I can't accurately check dates for continuity. 
+
+## Day 33
+I spent today working on a fix for the critical issue with timezones. I have fixed some of the timezone issues, but there are still some edge cases this will not work. 
+Still considering a couple of ideas, but the solution might be to rank the leaderboard by a different metric. 
