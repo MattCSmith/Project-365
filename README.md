@@ -143,3 +143,8 @@ Love the cool effect packages such as `react-content-loader` can add to the load
 ## Day 33
 I spent today working on a fix for the critical issue with timezones. I have fixed some of the timezone issues, but there are still some edge cases this will not work. 
 Still considering a couple of ideas, but the solution might be to rank the leaderboard by a different metric. 
+
+## Day 34
+- ✅ Trialed a couple of alternative methods to rank the leaderboard
+- ✅ Settled on ranking the leader board by attempting to extract the user delared day number. 
+- ✅ Set up logging to test the concept overnight
