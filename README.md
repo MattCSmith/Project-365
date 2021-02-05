@@ -148,3 +148,8 @@ Still considering a couple of ideas, but the solution might be to rank the leade
 - ✅ Trialed a couple of alternative methods to rank the leaderboard
 - ✅ Settled on ranking the leader board by attempting to extract the user delared day number. 
 - ✅ Set up logging to test the concept overnight
+
+## Day 35
+- ✅ Validated the alternative method for ranking the leader board works
+- ✅ Made some minor tweaks to account for the variations in input. 
+- ✅ Started adapting the database to store and utilise this new ranking method. 
