@@ -153,3 +153,6 @@ Still considering a couple of ideas, but the solution might be to rank the leade
 - ✅ Validated the alternative method for ranking the leader board works
 - ✅ Made some minor tweaks to account for the variations in input. 
 - ✅ Started adapting the database to store and utilise this new ranking method. 
+
+## Day 36
+After stagnating in the current project for the last couple of days, I decided to switch things up a little today. Knowing I'll likely be needing working on a couple of Discord bots this year, I started working on a boilerplate bot, combinging some of the handy functions and features from previous bots. 
