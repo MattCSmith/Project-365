@@ -156,3 +156,7 @@ Still considering a couple of ideas, but the solution might be to rank the leade
 
 ## Day 36
 After stagnating in the current project for the last couple of days, I decided to switch things up a little today. Knowing I'll likely be needing working on a couple of Discord bots this year, I started working on a boilerplate bot, combinging some of the handy functions and features from previous bots. 
+
+## Day 37
+- ✅ Finished puttig together the [basic boiler plate Discord bot](https://github.com/MattCSmith/BoilerBot-Basic)
+
