@@ -163,3 +163,6 @@ After stagnating in the current project for the last couple of days, I decided t
 ## Day 38
 Wasn't really sure what I wanted to work on next. Do I go back to the very first project, or maybe even the twitterbot project. 
 In the end I decided to take it easy and implemented more Discord events to the boilerbot, since these would be useful in the future. 
+
+## Day 39
+Again, today I wasn't 100% sure what to work on next. So I spent a little time brainstorming a couple of ideas, along side adding some more events to the discord boilerbot. 
