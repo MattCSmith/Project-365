@@ -166,3 +166,6 @@ In the end I decided to take it easy and implemented more Discord events to the 
 
 ## Day 39
 Again, today I wasn't 100% sure what to work on next. So I spent a little time brainstorming a couple of ideas, along side adding some more events to the discord boilerbot. 
+
+## Day 40
+On a mission today to finish added every event to the Discord boilerbot. I fell a little short. Every event file has now been created, just need to create the boilercode, comment and log for the last half. 
