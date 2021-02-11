@@ -169,3 +169,14 @@ Again, today I wasn't 100% sure what to work on next. So I spent a little time b
 
 ## Day 40
 On a mission today to finish added every event to the Discord boilerbot. I fell a little short. Every event file has now been created, just need to create the boilercode, comment and log for the last half. 
+
+## Day 41
+**Project:** Leaderboard
+Done Today:
+- ✅ Finished the new leading ranking logic
+- ✅ Wrote a script to update existing users records
+- ✅ Tweaked the leadercard
+Todo Tommorow:
+- 📅 Tidy up and finish the leadercard 
+- 📅 Add the new logic to new users being added to the database
+- 📅 Add basic filtering. 
