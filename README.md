@@ -184,3 +184,16 @@ Todo Tommorow:
 - 📅 Tidy up and finish the leadercard 
 - 📅 Add the new logic to new users being added to the database
 - 📅 Add basic filtering. 
+
+
+## Day 42
+#### **Project:** Leaderboard
+
+Done Today:
+
+- ✅ Tidied up and completed the Learcard update
+- ✅ New leaders are now stored with thier day number
+
+Todo Tommorow:
+
+- 📅 Add basic leaderboard sorting and filtering
