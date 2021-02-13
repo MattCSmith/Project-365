@@ -197,3 +197,12 @@ Done Today:
 Todo Tommorow:
 
 - 📅 Add basic leaderboard sorting and filtering
+
+
+## Day 43
+#### **Project:** Leaderboard
+
+Done Today:
+
+- ✅ Add basic leaderboard sorting and filtering
+- ✅ Bot now likes Tweets
