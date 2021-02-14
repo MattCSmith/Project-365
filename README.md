@@ -206,3 +206,10 @@ Done Today:
 
 - ✅ Add basic leaderboard sorting and filtering
 - ✅ Bot now likes Tweets
+
+## Day 44
+#### **Project:** Leaderboard
+
+Done Today:
+
+- ✅ Improved the UI for filter and sorting functionality
