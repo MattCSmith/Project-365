@@ -213,3 +213,11 @@ Done Today:
 Done Today:
 
 - ✅ Improved the UI for filter and sorting functionality
+
+## Day 45
+#### **Project:** Leaderboard
+
+Done Today:
+
+- ✅ Started working on milestones
+- ✅ Implemented some more statistics
