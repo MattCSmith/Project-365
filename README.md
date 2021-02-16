@@ -221,3 +221,11 @@ Done Today:
 
 - ✅ Started working on milestones
 - ✅ Implemented some more statistics
+
+## Day 46
+#### **Project:** Leaderboard
+
+Done Today:
+
+- ✅ Further worked on milestones
+- ✅ Fixed some minor bugs
