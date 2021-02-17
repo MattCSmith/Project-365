@@ -229,3 +229,11 @@ Done Today:
 
 - ✅ Further worked on milestones
 - ✅ Fixed some minor bugs
+
+## Day 47
+#### **Project:** Leaderboard
+
+Done Today:
+
+- ✅ Finished up milestones
+- ✅ Implemented some logs and tests to ensure milestones work, before releasing the feature. 
