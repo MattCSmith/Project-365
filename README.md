@@ -237,3 +237,11 @@ Done Today:
 
 - ✅ Finished up milestones
 - ✅ Implemented some logs and tests to ensure milestones work, before releasing the feature. 
+
+## Day 48
+#### **Project:** Leaderboard
+
+Done Today:
+
+The milestones feature contained a handful of bugs. Worked through a couple of them and refactored some code. 
+Will again see how the tests go overnight with live data
