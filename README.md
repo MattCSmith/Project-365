@@ -253,3 +253,10 @@ Will again see how the tests go overnight with live data
 Done Today:
 
 The milestones feature now appears to be working correctly after a few more tweaks. Tomorrow will improve this feature and hopefully push it live. 
+
+## Day 50
+#### **Project:** Leaderboard
+
+Done Today:
+Made improvements to the milestone feature, but not quite ready to push it live today. 
+
