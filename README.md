@@ -260,3 +260,7 @@ The milestones feature now appears to be working correctly after a few more twea
 Done Today:
 Made improvements to the milestone feature, but not quite ready to push it live today. 
 
+## Day 51
+#### **Project:** Leaderboard
+
+Continued working on the milestone feature and refactored some code and removed alot of the old leaderboard ranking logic. 
