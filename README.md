@@ -264,3 +264,8 @@ Made improvements to the milestone feature, but not quite ready to push it live 
 #### **Project:** Leaderboard
 
 Continued working on the milestone feature and refactored some code and removed alot of the old leaderboard ranking logic. 
+
+## Day 52
+#### **Project:** Leaderboard
+
+Identified a bug resulting in some day counts not being updated in the databased. Tracked down the issue and pushed a fix.
