@@ -269,3 +269,8 @@ Continued working on the milestone feature and refactored some code and removed 
 #### **Project:** Leaderboard
 
 Identified a bug resulting in some day counts not being updated in the databased. Tracked down the issue and pushed a fix.
+
+## Day 53
+#### **Project:** Leaderboard
+
+Fixed a couple of minor bug created from the refactoring a couple days ago and finally implemented the next round of tests for the milestone functionality. 
