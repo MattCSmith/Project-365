@@ -275,3 +275,8 @@ Identified a bug resulting in some day counts not being updated in the databased
 
 Fixed a couple of minor bug created from the refactoring a couple days ago and finally implemented the next round of tests for the milestone functionality. 
 If all goes to plan over the next couple of days, I can start having the bot respond to tweets upon the tweeter reaching a 100DaysOfCode milestone. I'm being super cautious with this rollout as I want to reduce the chance the bot goes on a spamming spree. 
+
+## Day 54
+#### **Project:** Leaderboard
+
+Spent some time today reading up on the twitter API after having issues in getting the bot to reply to tweets. Instead it was just tweeting. Hopeful I have found the solution to this. Also wrote some milestone stats tracking, hoping this data will help me make a more informed decision on how to interact with the community regarding milestones. For example, I probably don't want to have the bot retweet every early milestone as this could get super spammy. 
