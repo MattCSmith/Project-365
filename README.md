@@ -280,3 +280,8 @@ If all goes to plan over the next couple of days, I can start having the bot res
 #### **Project:** Leaderboard
 
 Spent some time today reading up on the twitter API after having issues in getting the bot to reply to tweets. Instead it was just tweeting. Hopeful I have found the solution to this. Also wrote some milestone stats tracking, hoping this data will help me make a more informed decision on how to interact with the community regarding milestones. For example, I probably don't want to have the bot retweet every early milestone as this could get super spammy. 
+
+## Day 55
+#### **Project:** Leaderboard
+
+After finally cracking the reply to tweet functionality last night, I spent today refactoring in the working implementation for replies. ALso spend some time working on the language files for the bot to use when reply to the milestone tweets. 
