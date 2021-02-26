@@ -285,3 +285,8 @@ Spent some time today reading up on the twitter API after having issues in getti
 #### **Project:** Leaderboard
 
 After finally cracking the reply to tweet functionality last night, I spent today refactoring in the working implementation for replies. ALso spend some time working on the language files for the bot to use when reply to the milestone tweets. 
+
+## Day 56
+#### **Project:** Leaderboard
+
+Spent some more time today working on the language files for the bot to use when sending milestone replies. Also started to pencil out the batching together of milestones for potential retweeting. 
