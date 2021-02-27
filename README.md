@@ -290,3 +290,8 @@ After finally cracking the reply to tweet functionality last night, I spent toda
 #### **Project:** Leaderboard
 
 Spent some more time today working on the language files for the bot to use when sending milestone replies. Also started to pencil out the batching together of milestones for potential retweeting. 
+
+## Day 57
+#### **Project:** Leaderboard
+
+Continued working on the batching together of milestones, feeling confident about this feature. 
