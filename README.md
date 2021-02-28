@@ -295,3 +295,7 @@ Spent some more time today working on the language files for the bot to use when
 #### **Project:** Leaderboard
 
 Continued working on the batching together of milestones, feeling confident about this feature. 
+
+## Day 58
+#### **Project:** Leaderboard
+Re-wrote and finished the language files for milestone replies. Checked over the milestone replies implementation and launched it 🎉
