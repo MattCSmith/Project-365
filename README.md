@@ -299,3 +299,8 @@ Continued working on the batching together of milestones, feeling confident abou
 ## Day 58
 #### **Project:** Leaderboard
 Re-wrote and finished the language files for milestone replies. Checked over the milestone replies implementation and launched it 🎉
+
+## Day 59
+#### **Project:** Leaderboard
+Today I implemented a lastUpdated feature. I had noticed the leader board always looked pretty stale and most of the profiles on the leaderboard had not posted for several days or more. This feature now ensures that each profile was updated within the last three days at least. 
+
