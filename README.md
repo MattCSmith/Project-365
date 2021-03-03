@@ -309,3 +309,9 @@ Today I implemented a lastUpdated feature. I had noticed the leader board always
 
 Over the last couple of days I have started to notice issues with the database, which resulted from the change of direction early on in the way in which the leaderboard is ranked alongside other minor changes along the way. Today I started to map out a new structure for the databse, making considerations for both the current and future features. 
 I think I have come up with a decent plan and have made a start on the implmentation.  
+
+
+## Day 61
+#### **Project:** Leaderboard
+
+Didn't have much spare time today to make a bunch of progress, so I spent a little time working on the new database optimisations. 
