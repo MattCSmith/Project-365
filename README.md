@@ -315,3 +315,8 @@ I think I have come up with a decent plan and have made a start on the implmenta
 #### **Project:** Leaderboard
 
 Didn't have much spare time today to make a bunch of progress, so I spent a little time working on the new database optimisations. 
+
+## Day 62
+#### **Project:** Leaderboard
+
+Today I finished of the new database optimisations. Will need to test them out tomorrow and perhaps tweak them a little. 
