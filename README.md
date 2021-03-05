@@ -320,3 +320,11 @@ Didn't have much spare time today to make a bunch of progress, so I spent a litt
 #### **Project:** Leaderboard
 
 Today I finished of the new database optimisations. Will need to test them out tomorrow and perhaps tweak them a little. 
+
+
+## Day 63 
+#### **Project:** Leaderboard
+
+🔹 Made a bunch of minor tweaks to the bot
+🔹 Implemented a last touch query param, so the frontend can filter how many days a leader can be inactive for, before they are hidden from the leaderboard. 
+🔹 Added a new challenge
