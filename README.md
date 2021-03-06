@@ -328,3 +328,9 @@ Today I finished of the new database optimisations. Will need to test them out t
 🔹 Made a bunch of minor tweaks to the bot
 🔹 Implemented a last touch query param, so the frontend can filter how many days a leader can be inactive for, before they are hidden from the leaderboard. 
 🔹 Added a new challenge
+
+
+## Day 63 
+#### **Project:** Leaderboard
+
+Today I made a start on refactoring the database helper functions to make them work efficiently with the new database structure.
