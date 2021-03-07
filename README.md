@@ -339,3 +339,8 @@ Today I made a start on refactoring the database helper functions to make them w
 #### **Project:** Leaderboard
 
 Continued to work on the database helper functions. Although not entirely a personal project, I also worked a little on the Zero To Mastery Discord bot, updating some of the remaining features to the v12 update of Discord.Js. This updated really highlighted to me, why as devs we should aim to avoid making breaking changes to APIs and wrappers. Especially when they are used by thousands of people. 
+
+## Day 65
+#### **Project:** Leaderboard
+
+Again I worked on updating the database helper functions to the new database stucture. These have been a massive time sink and I will be glad to get them done, but the new structure will make maintenace and new features alot easier and also the API will be slightly more powerful an optimised. 
