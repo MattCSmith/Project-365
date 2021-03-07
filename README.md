@@ -330,7 +330,12 @@ Today I finished of the new database optimisations. Will need to test them out t
 🔹 Added a new challenge
 
 
-## Day 63 
+## Day 64
 #### **Project:** Leaderboard
 
 Today I made a start on refactoring the database helper functions to make them work efficiently with the new database structure.
+
+## Day 64
+#### **Project:** Leaderboard
+
+Continued to work on the database helper functions. Although not entirely a personal project, I also worked a little on the Zero To Mastery Discord bot, updating some of the remaining features to the v12 update of Discord.Js. This updated really highlighted to me, why as devs we should aim to avoid making breaking changes to APIs and wrappers. Especially when they are used by thousands of people. 
