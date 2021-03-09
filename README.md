@@ -351,5 +351,7 @@ Again I worked on updating the database helper functions to the new database stu
 
 In fear of sounding like a broken record, I spent an hour today updating the database helper functions to the new database stucture.
 
+## Day 68
+#### **Project:** Leaderboard
 
-
+Plugged away at some more of the database helper functions. 
