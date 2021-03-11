@@ -355,3 +355,8 @@ In fear of sounding like a broken record, I spent an hour today updating the dat
 #### **Project:** Leaderboard
 
 Plugged away at some more of the database helper functions. 
+
+## Day 69
+#### **Project:** Leaderboard
+
+Spent a couple more hours today working on the helper functions again. 
