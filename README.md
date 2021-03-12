@@ -360,3 +360,9 @@ Plugged away at some more of the database helper functions.
 #### **Project:** Leaderboard
 
 Spent a couple more hours today working on the helper functions again. 
+
+
+## Day 70
+#### **Project:** Leaderboard
+
+Made a real push today to get the majority of these helper functions sorted and have got really close. Just a couple more left to do and I can proceed to testing before final implementation. 
