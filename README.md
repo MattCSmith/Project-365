@@ -366,3 +366,9 @@ Spent a couple more hours today working on the helper functions again.
 #### **Project:** Leaderboard
 
 Made a real push today to get the majority of these helper functions sorted and have got really close. Just a couple more left to do and I can proceed to testing before final implementation. 
+
+## Day 71
+#### **Project:** Leaderboard
+
+Spent an hour working on the final helper functions. Hope to finish them off tomorrow ready to complete the implimentation and run some tests.
+
