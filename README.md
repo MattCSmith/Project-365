@@ -370,5 +370,10 @@ Made a real push today to get the majority of these helper functions sorted and 
 ## Day 71
 #### **Project:** Leaderboard
 
-Spent an hour working on the final helper functions. Hope to finish them off tomorrow ready to complete the implimentation and run some tests.
+Spent an hour working on the final few helper functions. Hope to finish them off tomorrow ready to complete the implimentation and run some tests.
+
+## Day 72
+#### **Project:** Leaderboard
+
+Super close to finishing these helper functions now. Finished off another one and made a decent started to the second one. One and a half left to do. 
 
