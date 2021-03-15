@@ -377,3 +377,7 @@ Spent an hour working on the final few helper functions. Hope to finish them off
 
 Super close to finishing these helper functions now. Finished off another one and made a decent started to the second one. One and a half left to do. 
 
+## Day 73
+#### **Project:** Leaderboard
+
+Finished up the helper functions today 🎉. Next up is to implement and test the helper function. Fingers cross I can do all of that by midweek 
