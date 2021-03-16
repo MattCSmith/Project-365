@@ -381,3 +381,9 @@ Super close to finishing these helper functions now. Finished off another one an
 #### **Project:** Leaderboard
 
 Finished up the helper functions today 🎉. Next up is to implement and test the helper function. Fingers cross I can do all of that by midweek 
+
+## Day 74
+#### **Project:** Leaderboard
+
+Made a start on implementing the functions throughout the codebase of the Twitter bot. On target to wrap this up by midweek. 
+
