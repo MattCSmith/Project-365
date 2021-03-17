@@ -387,3 +387,8 @@ Finished up the helper functions today 🎉. Next up is to implement and test th
 
 Made a start on implementing the functions throughout the codebase of the Twitter bot. On target to wrap this up by midweek. 
 
+## Day 75
+#### **Project:** Leaderboard
+
+Made some great progress today. Have implemented the new helper functions throughout the codebase. Although ahead of shedule, I am going to take the spare day to double check everything again, just to ensure I haven't missed anything, since it is a pretty big change. 
+
