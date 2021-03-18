@@ -392,3 +392,7 @@ Made a start on implementing the functions throughout the codebase of the Twitte
 
 Made some great progress today. Have implemented the new helper functions throughout the codebase. Although ahead of shedule, I am going to take the spare day to double check everything again, just to ensure I haven't missed anything, since it is a pretty big change. 
 
+## Day 76
+#### **Project:** Leaderboard
+
+Spent today double checking the optimised helper functions had been implemented correctly, before launching them. Smoothed over a few bugs from things I had missed. But the newly optimised helper functions are now live. Tommorrow I can make use of the new DB structure to implement some new features. 
