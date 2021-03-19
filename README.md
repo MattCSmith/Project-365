@@ -396,3 +396,9 @@ Made some great progress today. Have implemented the new helper functions throug
 #### **Project:** Leaderboard
 
 Spent today double checking the optimised helper functions had been implemented correctly, before launching them. Smoothed over a few bugs from things I had missed. But the newly optimised helper functions are now live. Tommorrow I can make use of the new DB structure to implement some new features. 
+
+
+## Day 77
+#### **Project:** Leaderboard
+
+Fixed up a couple of bugs and implemented the daily milestone logger, hopefully providing the ability to tweet shout out's to a couple of milestone achievers each day. I also started to work on a roadmap for Challenged.Dev
