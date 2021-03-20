@@ -402,3 +402,11 @@ Spent today double checking the optimised helper functions had been implemented 
 #### **Project:** Leaderboard
 
 Fixed up a couple of bugs and implemented the daily milestone logger, hopefully providing the ability to tweet shout out's to a couple of milestone achievers each day. I also started to work on a roadmap for Challenged.Dev
+
+## Day 78
+#### **Project:** Leaderboard
+Identified and fixed a bug, where milestones where being pushed twice to the array in the milestone document. 
+As mentioned in yesterdays log, I created a roadmap/list of features I would like to add to Challenged.Dev. Which will likely require a bit of an overhall to the Frontend.
+I realised that recently I am no longer pushing my self to learn anything new, and if I am going to commit to overhauling the frontend I should at least look at utilising different tools/frameworks and services. Otherwise I would just be building yet another React application in much the same way I have done multiple time before. 
+
+After looking at different options and solutions, I spend some time today evaluating Next JS and vercel as a potential solution. Tomorrow I will experiement some more and decide. 
