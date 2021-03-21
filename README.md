@@ -412,7 +412,7 @@ I realised that recently I am no longer pushing my self to learn anything new, a
 
 After looking at different options and solutions, I spend some time today evaluating Next JS and vercel as a potential solution. Tomorrow I will experiement some more and decide. 
 
-## Day 78
+## Day 79
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 
 So today I spent a bunch of time setting up Next.js with Contentful & Netlify. Still have a bit of experiementing to do, but its looking like a great option for the front end. 
