@@ -411,3 +411,8 @@ As mentioned in yesterdays log, I created a roadmap/list of features I would lik
 I realised that recently I am no longer pushing my self to learn anything new, and if I am going to commit to overhauling the frontend I should at least look at utilising different tools/frameworks and services. Otherwise I would just be building yet another React application in much the same way I have done multiple time before. 
 
 After looking at different options and solutions, I spend some time today evaluating Next JS and vercel as a potential solution. Tomorrow I will experiement some more and decide. 
+
+## Day 78
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+
+So today I spent a bunch of time setting up Next.js with Contentful & Netlify. Still have a bit of experiementing to do, but its looking like a great option for the front end. 
