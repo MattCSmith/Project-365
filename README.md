@@ -416,3 +416,9 @@ After looking at different options and solutions, I spend some time today evalua
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 
 So today I spent a bunch of time setting up Next.js with Contentful & Netlify. Still have a bit of experiementing to do, but its looking like a great option for the front end. 
+
+
+## Day 80
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+
+Today I did some more experiementing with Next.js and for the most part I have been really enjoying it. Figured out how to integrate it with Contentful headless CMS in the way I want to use it. Now that I have explored Next, I think tomorrow I can actually start working on rebuilding the Front End. 
