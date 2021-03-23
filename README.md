@@ -426,4 +426,9 @@ Today I did some more experiementing with Next.js and for the most part I have b
 ## Day 81
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 
+Today I spent some time working on the initial layout and strucutre for the front end. Unforuntately there is not much visible progress to look back on, but I am more than happy with the progress
+
+## Day 82
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+
 After deciding to roll with a sidebar layout for this design, I spent some time today starting to build out the first itteration of it. 
