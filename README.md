@@ -432,3 +432,8 @@ Today I spent some time working on the initial layout and strucutre for the fron
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 
 After deciding to roll with a sidebar layout for this design, I spent some time today starting to build out the first itteration of it. 
+
+## Day 83
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+
+Spent time today bringing the sidebar near completion. It now has collapsible functionality, submenus, icons and badges. 
