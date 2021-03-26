@@ -437,3 +437,8 @@ After deciding to roll with a sidebar layout for this design, I spent some time 
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 
 Spent time today bringing the sidebar near completion. It now has collapsible functionality, submenus, icons and badges. 
+
+## Day 84
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+
+Today I added some more polish to the collapisble sidebar for the frontend. Really pleased with how its turning out. I reckon another days work and the sidebar will be mostly complete, subject to the itterative updates. 
