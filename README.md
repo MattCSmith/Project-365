@@ -442,3 +442,9 @@ Spent time today bringing the sidebar near completion. It now has collapsible fu
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 
 Today I added some more polish to the collapisble sidebar for the frontend. Really pleased with how its turning out. I reckon another days work and the sidebar will be mostly complete, subject to the itterative updates. 
+
+
+## Day 85
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+
+Today I spent some time finishing off the sidebar. Unfortunately I had to undo some of the work yesterday and change plans for the sidebar menu, as it doesn't seem possible right now to use `getStaticProps` in the `_app.js` file. 
