@@ -453,3 +453,8 @@ Today I spent some time finishing off the sidebar. Unfortunately I had to undo s
 ## Day 86
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 Today I made a quick start on the index page of the new front end. 
+
+
+## Day 87
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+Spend some more time today working on the index page. Created a couple of section to crate feature highlights. Ran into a couple of issues with the sidebar causing some overflow. Hopefully I have more time tomorrow to address the issues. 
