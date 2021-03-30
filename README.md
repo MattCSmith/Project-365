@@ -458,3 +458,8 @@ Today I made a quick start on the index page of the new front end.
 ## Day 87
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 Spend some more time today working on the index page. Created a couple of section to crate feature highlights. Ran into a couple of issues with the sidebar causing some overflow. Hopefully I have more time tomorrow to address the issues. 
+
+## Day 88
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+After noticing some issues yesterday with the layout/overflow/responsiveness, I dedicated some time today to make a start on fixing the issues here and making steps to ensure a responsive design forms. 
+
