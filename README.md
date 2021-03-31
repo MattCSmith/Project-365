@@ -463,3 +463,7 @@ Spend some more time today working on the index page. Created a couple of sectio
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 After noticing some issues yesterday with the layout/overflow/responsiveness, I dedicated some time today to make a start on fixing the issues here and making steps to ensure a responsive design forms. 
 
+## Day 89
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+Today I continued working on the responsiveness of the front end. 
+
