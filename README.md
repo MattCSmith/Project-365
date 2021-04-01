@@ -467,3 +467,8 @@ After noticing some issues yesterday with the layout/overflow/responsiveness, I 
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 Today I continued working on the responsiveness of the front end. 
 
+
+## Day 90
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+Again I continued working on the responsiveness of the front end today, I have made a bunch of progress and feel pretty happy with the current responsiveness of the layout.
+Tomorrow I intend to continue with building out the pages. 
