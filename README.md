@@ -476,3 +476,7 @@ Tomorrow I intend to continue with building out the pages.
 ## Day 91
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 Today I made a started work on the resources page. I had already made a very brief start on this page a while back, so their was a bit of tidy up and refacting required.  
+
+## Day 92
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+Not really much to report today, continued working on the resources page. 
