@@ -480,3 +480,8 @@ Today I made a started work on the resources page. I had already made a very bri
 ## Day 92
 #### **Project:** Challenged.Dev - Next.js FrontEnd
 Not really much to report today, continued working on the resources page. 
+
+
+## Day 93
+#### **Project:** Challenged.Dev - Next.js FrontEnd
+Majority of the intitial Resources funtionality is now in place, just a little styling and tweaking left. Will eventually want to add some more advanced functionality, such as filtering/sorting/searching and resource catergorisation etc. 
