@@ -489,3 +489,8 @@ Majority of the intitial Resources funtionality is now in place, just a little s
 ## Day 94
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Unfortunately I didn't have much time today, which meant I didn't have enough time to finish up the styling from yesterday. Instead I decided to make a start on the challenge page. 
+
+
+## Day 95
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today I finished off implementing the challenges page and made some good progress on styling the cards for both the challenge page and the resources page. 
