@@ -494,3 +494,7 @@ Unfortunately I didn't have much time today, which meant I didn't have enough ti
 ## Day 95
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Today I finished off implementing the challenges page and made some good progress on styling the cards for both the challenge page and the resources page. 
+
+## Day 96
+#### **Project:** Challenged.Dev - Next.js Frontend 
+I continued working on the styling of the resource and challenge cards today. 
