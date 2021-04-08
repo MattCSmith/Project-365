@@ -498,3 +498,8 @@ Today I finished off implementing the challenges page and made some good progres
 ## Day 96
 #### **Project:** Challenged.Dev - Next.js Frontend 
 I continued working on the styling of the resource and challenge cards today. 
+
+
+## Day 97
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today I experiemented with different card layouts, mainly masonry grids and evalutating ways in which to achieve this in Next. 
