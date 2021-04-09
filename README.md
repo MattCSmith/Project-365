@@ -503,3 +503,7 @@ I continued working on the styling of the resource and challenge cards today.
 ## Day 97
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Today I experiemented with different card layouts, mainly masonry grids and evalutating ways in which to achieve this in Next. 
+
+## Day 98
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today I continued exploring and experimenting with a couple of the masonry layouts methods. Each seem to have some tradeoffs to consider before implementation.  
