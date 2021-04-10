@@ -507,3 +507,8 @@ Today I experiemented with different card layouts, mainly masonry grids and eval
 ## Day 98
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Today I continued exploring and experimenting with a couple of the masonry layouts methods. Each seem to have some tradeoffs to consider before implementation.  
+
+## Day 99
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today I have finished implementing the masonry layout for both challenges and resources and tidied up a the styling of the cards. 
+
