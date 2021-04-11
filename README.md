@@ -517,3 +517,7 @@ Today I have finished implementing the masonry layout for both challenges and re
 Today I worked on some more mobile optimisation. In particular the sidebar needed some work, since it never collapsed for smaller screens. 
 This actually require a custom Debounce hook to ensure the resizing didn't happen too often that it created a jerky appearance. Debounce is a super cool hook.
 Other tweaks includes responsive column count for the masonry cards, custom scrollbar for the sidebar and submenu icons, 
+
+## Day 101
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today I made a start on implementing the 100 days of code leaderboard. I'm not 100% sure where I actually want the leaderboard to be just yet, but I can figure that out once the component is ready for a page. 
