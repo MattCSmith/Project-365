@@ -512,3 +512,8 @@ Today I continued exploring and experimenting with a couple of the masonry layou
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Today I have finished implementing the masonry layout for both challenges and resources and tidied up a the styling of the cards. 
 
+## Day 100
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today I worked on some more mobile optimisation. In particular the sidebar needed some work, since it never collapsed for smaller screens. 
+This actually require a custom Debounce hook to ensure the resizing didn't happen too often that it created a jerky appearance. Debounce is a super cool hook.
+Other tweaks includes responsive column count for the masonry cards, custom scrollbar for the sidebar and submenu icons, 
