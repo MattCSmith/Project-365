@@ -521,3 +521,7 @@ Other tweaks includes responsive column count for the masonry cards, custom scro
 ## Day 101
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Today I made a start on implementing the 100 days of code leaderboard. I'm not 100% sure where I actually want the leaderboard to be just yet, but I can figure that out once the component is ready for a page. 
+
+## Day 102
+#### **Project:** Challenged.Dev - Next.js Frontend 
+I had very little time today, so I spent an hour just working on the leaderboard again. 
