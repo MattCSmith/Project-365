@@ -525,3 +525,7 @@ Today I made a start on implementing the 100 days of code leaderboard. I'm not 1
 ## Day 102
 #### **Project:** Challenged.Dev - Next.js Frontend 
 I had very little time today, so I spent an hour just working on the leaderboard again. 
+
+## Day 103
+#### **Project:** Challenged.Dev - Next.js Frontend 
+I spent today working on building the footer and making some general improvements to the overall styling and theme of the site, working towards a more cohesive design.
