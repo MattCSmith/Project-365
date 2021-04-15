@@ -529,3 +529,7 @@ I had very little time today, so I spent an hour just working on the leaderboard
 ## Day 103
 #### **Project:** Challenged.Dev - Next.js Frontend 
 I spent today working on building the footer and making some general improvements to the overall styling and theme of the site, working towards a more cohesive design.
+
+## Day 104
+#### **Project:** Challenged.Dev - Next.js Frontend 
+Today, I again had very little time, so I so I continued to plug away at teh leaderboard. I have also started to consider the implementation of some of the other features I have planned. 
