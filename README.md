@@ -533,3 +533,8 @@ I spent today working on building the footer and making some general improvement
 ## Day 104
 #### **Project:** Challenged.Dev - Next.js Frontend 
 Today, I again had very little time, so I so I continued to plug away at teh leaderboard. I have also started to consider the implementation of some of the other features I have planned. 
+
+
+## Day 105
+#### **Project:** Challenged.Dev - Next.js Frontend
+Today I started implementing basic search for the resources component, however will also roll this out to a couple of other compontents. 
