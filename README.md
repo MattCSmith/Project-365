@@ -538,3 +538,7 @@ Today, I again had very little time, so I so I continued to plug away at teh lea
 ## Day 105
 #### **Project:** Challenged.Dev - Next.js Frontend
 Today I started implementing basic search for the resources component, however will also roll this out to a couple of other compontents. 
+
+## Day 106
+#### **Project:** Home Automation
+Today I experimented with various Zigbee sensors in HomeAssistant. Although it has mostly been configuring YAML and JSON, there has been a bunch of learnings today... Inlcuding stripping back the Zigbee bridge and re-flashing the firmware so it can communicate with HA. Its been awesome being able to program actual pyshical devices. I am looking forward to all the posibilities and perhaps even writing some applications that can interact with components around my home. 
