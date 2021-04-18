@@ -542,3 +542,8 @@ Today I started implementing basic search for the resources component, however w
 ## Day 106
 #### **Project:** Home Automation
 Today I experimented with various Zigbee sensors in HomeAssistant. Although it has mostly been configuring YAML and JSON, there has been a bunch of learnings today... Inlcuding stripping back the Zigbee bridge and re-flashing the firmware so it can communicate with HA. Its been awesome being able to program actual pyshical devices. I am looking forward to all the posibilities and perhaps even writing some applications that can interact with components around my home. 
+
+
+## Day 107
+#### **Project:** Home Automation
+I spend some more time today experimenting and playing with the various components, settings and sensors.  Put together a basic automation where a motion PIR flashes a hue bulb and sends a push notification. 
