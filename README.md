@@ -547,3 +547,8 @@ Today I experimented with various Zigbee sensors in HomeAssistant. Although it h
 ## Day 107
 #### **Project:** Home Automation
 I spend some more time today experimenting and playing with the various components, settings and sensors.  Put together a basic automation where a motion PIR flashes a hue bulb and sends a push notification. 
+
+
+## Day 108
+#### **Project:** Home Automation
+Spent a bunch of time today building out some dashboards through YAML files for HomeAssistant. I also spend some time looking through community built extensions/addons, to see how they added the extra functionality to HA. Pretty cool to see JS is used for the theming of HA Dashboards, perhaps I can write an addoon in the near future. 
