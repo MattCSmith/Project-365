@@ -552,3 +552,8 @@ I spend some more time today experimenting and playing with the various componen
 ## Day 108
 #### **Project:** Home Automation
 Spent a bunch of time today building out some dashboards through YAML files for HomeAssistant. I also spend some time looking through community built extensions/addons, to see how they added the extra functionality to HA. Pretty cool to see JS is used for the theming of HA Dashboards, perhaps I can write an addoon in the near future. 
+
+## Day 109
+#### **Project:** Home Automation
+Continued working on dashboards today. Its really cool what you can achieve with YAML in HA... but it can be a pain to ensure the syntax is correct.
+I also explored options for creating an AI powered Discord bot. Found a couple of interesting options worth further experimenting in a future project. 
