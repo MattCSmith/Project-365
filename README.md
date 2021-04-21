@@ -557,3 +557,8 @@ Spent a bunch of time today building out some dashboards through YAML files for 
 #### **Project:** Home Automation
 Continued working on dashboards today. Its really cool what you can achieve with YAML in HA... but it can be a pain to ensure the syntax is correct.
 I also explored options for creating an AI powered Discord bot. Found a couple of interesting options worth further experimenting in a future project. 
+
+
+## Day 110
+#### **Project:** Challenged.Dev - Next.js Frontend
+Today I continued implementing the basic search functionality for the resources component.
