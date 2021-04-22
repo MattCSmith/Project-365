@@ -562,3 +562,7 @@ I also explored options for creating an AI powered Discord bot. Found a couple o
 ## Day 110
 #### **Project:** Challenged.Dev - Next.js Frontend
 Today I continued implementing the basic search functionality for the resources component.
+
+## Day 111
+#### **Project:** Challenged.Dev - Next.js Frontend
+Today I started working on the challenge template page. I am hopeful I can create a unified template each challenge can share. 
