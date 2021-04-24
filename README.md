@@ -570,3 +570,8 @@ Today I started working on the challenge template page. I am hopeful I can creat
 ## Day 112
 #### **Project:** Challenged.Dev - Next.js Frontend
 Today I started work on dynamic routing, using getStaticPaths to generate the routes/paths for each challenge entry in Contentful. This took a little experimenting to get working, but got it working in the end. 
+
+
+## Day 113
+#### **Project:** Challenged.Dev - Next.js Frontend
+Unfortunately I did not have a ton of spare time today, so now that the dynamic routing is functional I continued working on the challenge page design. 
