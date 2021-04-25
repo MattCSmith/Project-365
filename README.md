@@ -575,3 +575,8 @@ Today I started work on dynamic routing, using getStaticPaths to generate the ro
 ## Day 113
 #### **Project:** Challenged.Dev - Next.js Frontend
 Unfortunately I did not have a ton of spare time today, so now that the dynamic routing is functional I continued working on the challenge page design. 
+
+## Day 114
+#### **Project:** Challenged.Dev - Next.js Frontend
+Again I didnt have a ton time so I continued working on the challenge page design
+
