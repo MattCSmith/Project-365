@@ -580,3 +580,7 @@ Unfortunately I did not have a ton of spare time today, so now that the dynamic 
 #### **Project:** Challenged.Dev - Next.js Frontend
 Again I didnt have a ton time so I continued working on the challenge page design
 
+## Day 114
+#### **Project:** Challenged.Dev - Next.js Frontend
+Another day with limited time. Continued on the challenge page, with a bit of luck I will have a bit more time tomorrow to complete the page.
+
