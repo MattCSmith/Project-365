@@ -584,3 +584,6 @@ Again I didnt have a ton time so I continued working on the challenge page desig
 #### **Project:** Challenged.Dev - Next.js Frontend
 Another day with limited time. Continued on the challenge page, with a bit of luck I will have a bit more time tomorrow to complete the page.
 
+## Day 116
+#### **Project:** Challenged.Dev - Next.js Frontend
+After loading more challenges into Contentful to get a better idea of the design, I noticed a bug in the dynamic rendering of the challenge pages. In which only the first challenge entry in Contentful is displayed regardless of the selected challenge. After some experomenting and doc reading I think I misunderstood the getStaticProps and getStaticPaths. Ran out of time to fix it today, will hopefully fix this tomorrow. 
