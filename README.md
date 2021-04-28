@@ -587,3 +587,9 @@ Another day with limited time. Continued on the challenge page, with a bit of lu
 ## Day 116
 #### **Project:** Challenged.Dev - Next.js Frontend
 After loading more challenges into Contentful to get a better idea of the design, I noticed a bug in the dynamic rendering of the challenge pages. In which only the first challenge entry in Contentful is displayed regardless of the selected challenge. After some experomenting and doc reading I think I misunderstood the getStaticProps and getStaticPaths. Ran out of time to fix it today, will hopefully fix this tomorrow. 
+
+## Day 117
+#### **Project:** Challenged.Dev - Next.js Frontend
+Today I found a solution for the bug the effected the dynamic rendering of the challenge, although I am not 100% sure its the best option it does appear to be the solution most commonly provided throughout various articles. It just seems odd that I can't use Contentfuls getEntry and have to use getEntries to get a single entry. 
+
+
