@@ -592,4 +592,8 @@ After loading more challenges into Contentful to get a better idea of the design
 #### **Project:** Challenged.Dev - Next.js Frontend
 Today I found a solution for the bug the effected the dynamic rendering of the challenge, although I am not 100% sure its the best option it does appear to be the solution most commonly provided throughout various articles. It just seems odd that I can't use Contentfuls getEntry and have to use getEntries to get a single entry. 
 
+## Day 118
+#### **Project:** Challenged.Dev - Next.js Frontend
+Today I worked on some more general page styling, inlcuding as creating a component for page title, the general page content container to make it easier to conform page content margins and styling. I also started adding some accent colouring to elements throughout the site. 
+
 
