@@ -596,4 +596,8 @@ Today I found a solution for the bug the effected the dynamic rendering of the c
 #### **Project:** Challenged.Dev - Next.js Frontend
 Today I worked on some more general page styling, inlcuding as creating a component for page title, the general page content container to make it easier to conform page content margins and styling. I also started adding some accent colouring to elements throughout the site. 
 
+## Day 119
+#### **Project:** Challenged.Dev - Next.js Frontend
+Today I made a bunch of progress. From abstracting the Masonry grid into its own component in order to utilise it across various pages with different card components. To creating a new leader card, utilising the new masonry grid and made a couple of tweaks to the API in order to include the latest tweet on the leader card. There are definately some optimisations to be made and the load time on this page is pretty noticable, however pagination and lazy loading have not yet been implemented, so this is to be expected. 
+
 
