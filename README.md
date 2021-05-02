@@ -600,7 +600,10 @@ Today I worked on some more general page styling, inlcuding as creating a compon
 #### **Project:** Challenged.Dev - Next.js Frontend
 Today I made a bunch of progress. From abstracting the Masonry grid into its own component in order to utilise it across various pages with different card components. To creating a new leader card, utilising the new masonry grid and made a couple of tweaks to the API in order to include the latest tweet on the leader card. There are definately some optimisations to be made and the load time on this page is pretty noticable, however pagination and lazy loading have not yet been implemented, so this is to be expected. 
 
-
 ## Day 120
 #### **Project:** Challenged.Dev - Next.js Frontend
 Following on from yesterday's styling improvments I continued to work on the leader card and the leader board, with the little time I had available.
+
+## Day 121
+### **Project:** Netlify Functions
+Today I spent a bunch of time looking into and experimenting with Netlify functions after having some issues with it during another project
