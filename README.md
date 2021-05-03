@@ -606,4 +606,10 @@ Following on from yesterday's styling improvments I continued to work on the lea
 
 ## Day 121
 ### **Project:** Netlify Functions
-Today I spent a bunch of time looking into and experimenting with Netlify functions after having some issues with it during another project
+After facing some difficulties with Netlify functions in another project, I decided to spend some time today learning more about them and the netlify CLI
+
+## Day 122
+### **Project:** Challenge.Dev API
+Today I noticed the API was not working, so I spend some time trying to track down the issue. It took some time to figure out, but will need further investigation as I am not 100% sure its the problem. Even if its not I will need to figure out why the Digital ocean drop has upgraded its self. 
+
+
