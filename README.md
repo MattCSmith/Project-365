@@ -612,4 +612,6 @@ After facing some difficulties with Netlify functions in another project, I deci
 ### **Project:** Challenge.Dev API
 Today I noticed the API was not working, so I spend some time trying to track down the issue. It took some time to figure out, but will need further investigation as I am not 100% sure its the problem. Even if its not I will need to figure out why the Digital ocean drop has upgraded its self. 
 
-
+## Day 123
+### **Project:** Challenge.Dev API
+Yesterday I noticed that the API was not functioning correctly. This appears to be an issue with the billing/pricing plan the droplet is on. For some reason it was no longer running on the basic droplet. I was unable to downgrade the droplet apparently because of the decrease in disk space between the plans. I have there for began to backthings up and started a migration to a new server. This will likely take me a couple days to complete. 
