@@ -615,3 +615,8 @@ Today I noticed the API was not working, so I spend some time trying to track do
 ## Day 123
 ### **Project:** Challenge.Dev API
 Yesterday I noticed that the API was not functioning correctly. This appears to be an issue with the billing/pricing plan the droplet is on. For some reason it was no longer running on the basic droplet. I was unable to downgrade the droplet apparently because of the decrease in disk space between the plans. I have there for began to backthings up and started a migration to a new server. This will likely take me a couple days to complete. 
+
+## Day 124
+### **Project:** [Google App Scripts](https://developers.google.com/apps-script)
+Spend a while today learning more about Google App Scripts and experimented with them a little. Its really kinda cool what you can achieve with them. They are a really cool hidden feature that can really help your automate some of your manual processes in Google Docs/Sheets etc. 
+
