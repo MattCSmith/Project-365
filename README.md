@@ -621,6 +621,6 @@ Yesterday I noticed that the API was not functioning correctly. This appears to 
 Spend a while today learning more about Google App Scripts and experimented with them a little. Its really kinda cool what you can achieve with them. They are a really cool hidden feature that can really help your automate some of your manual processes in Google Docs/Sheets etc. 
 
 
-## Day 123
+## Day 125
 ### **Project:** Migrating Challenged.Dev
 Today I continued migrating to a new droplet since I was unable to downgrade the droplet. Todays task was set up ssh on the ubuntu droplet and secure it. I also made a start on installing things like Node, PM2, Nginx etc, ready for congiguration tomorrow. 
