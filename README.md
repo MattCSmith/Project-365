@@ -629,3 +629,8 @@ Today I continued migrating to a new droplet since I was unable to downgrade the
 ## Day 126
 ### **Project:** Migrating Challenged.Dev
 In continuation from yesterday I continued migrating to the new droplet. Todays task was to continue setting up and configuring the requirements for the application. After a little more setting up tomorrow, I should be ready to start migrating the actual application. 
+
+
+## Day 127
+### **Project:** Styled Components 
+So I ran into some issues today in another project with dynamically apply theme styles to a styled-component based on the props passed in. Every method I tried created some really bizzare side effects. So I spent a bunch of time today learning more about styled-components and experiementing with them a little. I was eventually able to solve the issue I was having. 
