@@ -624,3 +624,8 @@ Spend a while today learning more about Google App Scripts and experimented with
 ## Day 125
 ### **Project:** Migrating Challenged.Dev
 Today I continued migrating to a new droplet since I was unable to downgrade the droplet. Todays task was set up ssh on the ubuntu droplet and secure it. I also made a start on installing things like Node, PM2, Nginx etc, ready for congiguration tomorrow. 
+
+
+## Day 126
+### **Project:** Migrating Challenged.Dev
+In continuation from yesterday I continued migrating to the new droplet. Todays task was to continue setting up and configuring the requirements for the application. After a little more setting up tomorrow, I should be ready to start migrating the actual application. 
