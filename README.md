@@ -634,3 +634,9 @@ In continuation from yesterday I continued migrating to the new droplet. Todays 
 ## Day 127
 ### **Project:** Styled Components 
 So I ran into some issues today in another project with dynamically apply theme styles to a styled-component based on the props passed in. Every method I tried created some really bizzare side effects. So I spent a bunch of time today learning more about styled-components and experiementing with them a little. I was eventually able to solve the issue I was having. 
+
+
+## Day 128
+### **Project:** Migrating Challenged.Dev
+The backend has now been fully migrated to the new droplet, although I did notice this droplet had also increased in size, so I will have to keep an eye on that. 
+Unfortunately this was not the underlying issue in the API not responding to certain endpoint requests. I'm wondering if the user collection in Mongo is too large and the endpoint is failing because the request is taking too long to complete. I will experiement further tomorrow hopeful and see if I can fix this issue. 
