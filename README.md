@@ -640,3 +640,8 @@ So I ran into some issues today in another project with dynamically apply theme 
 ### **Project:** Migrating Challenged.Dev
 The backend has now been fully migrated to the new droplet, although I did notice this droplet had also increased in size, so I will have to keep an eye on that. 
 Unfortunately this was not the underlying issue in the API not responding to certain endpoint requests. I'm wondering if the user collection in Mongo is too large and the endpoint is failing because the request is taking too long to complete. I will experiement further tomorrow hopeful and see if I can fix this issue. 
+
+
+## Day 129
+### **Project:** Challenged.Dev - MongoDB
+I started to look into the issue with Mongo today. From my learnings today, Mongo is capable of scalling to datasets far greater than the set I am currently using with Mongo. So I spent some time learning more about Mongo Indexs to improve the efficiency of the queries that are taking too long to resolve. I did implement a couple of Index, but as of yet have not noticed an improvement in the response. I will try again tomorrow, perhaps I overlooked something. 
