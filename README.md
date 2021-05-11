@@ -645,3 +645,8 @@ Unfortunately this was not the underlying issue in the API not responding to cer
 ## Day 129
 ### **Project:** Challenged.Dev - MongoDB
 I started to look into the issue with Mongo today. From my learnings today, Mongo is capable of scalling to datasets far greater than the set I am currently using with Mongo. So I spent some time learning more about Mongo Indexs to improve the efficiency of the queries that are taking too long to resolve. I did implement a couple of Index, but as of yet have not noticed an improvement in the response. I will try again tomorrow, perhaps I overlooked something. 
+
+## Day 129
+### **Project:** Challenged.Dev - MongoDB
+I haven't had much spare time today to do much experimenting, but in continuation from yesterday I've done a little more research into Mongo Indexing and optimisations. 
+Hopefully tomorrow I will have a little more time to experiment a little more and hopefully find a solution.
