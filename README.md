@@ -646,7 +646,14 @@ Unfortunately this was not the underlying issue in the API not responding to cer
 ### **Project:** Challenged.Dev - MongoDB
 I started to look into the issue with Mongo today. From my learnings today, Mongo is capable of scalling to datasets far greater than the set I am currently using with Mongo. So I spent some time learning more about Mongo Indexs to improve the efficiency of the queries that are taking too long to resolve. I did implement a couple of Index, but as of yet have not noticed an improvement in the response. I will try again tomorrow, perhaps I overlooked something. 
 
-## Day 129
+## Day 130
 ### **Project:** Challenged.Dev - MongoDB
 I haven't had much spare time today to do much experimenting, but in continuation from yesterday I've done a little more research into Mongo Indexing and optimisations. 
 Hopefully tomorrow I will have a little more time to experiment a little more and hopefully find a solution.
+
+
+## Day 131
+### **Project:** Challenged.Dev - MongoDB
+So today I spent some more time experimenting with Mongo indexes and I found the Explain Plan function in Mongo Compass. It seems as if even though I have an index for the filter I am performing on the documents, its still having to examine over 4k documents. Will spend some time tomorrow looking into solutions or perhaps I need to come up with a more performant way to save the leaders or at least serve them. 
+
+
