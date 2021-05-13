@@ -657,3 +657,6 @@ Hopefully tomorrow I will have a little more time to experiment a little more an
 So today I spent some more time experimenting with Mongo indexes and I found the Explain Plan function in Mongo Compass. It seems as if even though I have an index for the filter I am performing on the documents, its still having to examine over 4k documents. Will spend some time tomorrow looking into solutions or perhaps I need to come up with a more performant way to save the leaders or at least serve them. 
 
 
+## Day 132
+### **Project:** Challenged.Dev - MongoDB
+Spent some time today watching some videos and reading up on Mongo and DB design practices. I haven't really come up with a solid plan to reduce the time it takes to fetch the leaders, but with a bit more research I am confident. 
