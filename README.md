@@ -660,3 +660,8 @@ So today I spent some more time experimenting with Mongo indexes and I found the
 ## Day 132
 ### **Project:** Challenged.Dev - MongoDB
 Spent some time today watching some videos and reading up on Mongo and DB design practices. I haven't really come up with a solid plan to reduce the time it takes to fetch the leaders, but with a bit more research I am confident. 
+
+
+## Day 133
+### **Project:** Challenged.Dev
+With limited time today I took a bit of a break from the Mongo issue and continued working a little on the leaderboard and fixing a couple of issues with analytics etc. 
