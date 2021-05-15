@@ -665,3 +665,7 @@ Spent some time today watching some videos and reading up on Mongo and DB design
 ## Day 133
 ### **Project:** Challenged.Dev
 With limited time today I took a bit of a break from the Mongo issue and continued working a little on the leaderboard and fixing a couple of issues with analytics etc. 
+
+## Day 134
+### **Project:** Backend Course
+Since I have been struggling a little with the architecture of the Mongo DB in order to scale it with minimal delay, I have decided to spend a little time each week on [Zero To Mastery's Node Course](https://academy.zerotomastery.io/p/learn-node-js) which alongside a bunch of interesting topics covers Mongo. I don't want my learning shedule to take over the challenge, however since I am kinda blocked on this and have limited time to dedicate, doing both together seems like a logical solution. 
