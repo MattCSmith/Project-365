@@ -669,3 +669,8 @@ With limited time today I took a bit of a break from the Mongo issue and continu
 ## Day 134
 ### **Project:** Backend Course
 Since I have been struggling a little with the architecture of the Mongo DB in order to scale it with minimal delay, I have decided to spend a little time each week on [Zero To Mastery's Node Course](https://academy.zerotomastery.io/p/learn-node-js) which alongside a bunch of interesting topics covers Mongo. I don't want my learning shedule to take over the challenge, however since I am kinda blocked on this and have limited time to dedicate, doing both together seems like a logical solution. 
+
+
+## DAY 135
+### **Project:** Backend Course
+With limited time available today I decided to spend the time I had working through the Node.js course. At the moment I am still in the early chapters working through some of the more basic elements, but it has been helpful in filling a couple of gaps in knowledge.
