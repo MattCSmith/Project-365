@@ -674,3 +674,8 @@ Since I have been struggling a little with the architecture of the Mongo DB in o
 ## DAY 135
 ### **Project:** Backend Course
 With limited time available today I decided to spend the time I had working through the Node.js course. At the moment I am still in the early chapters working through some of the more basic elements, but it has been helpful in filling a couple of gaps in knowledge.
+
+
+## DAY 136
+### **Project:** Discord Bot
+Decided to take a little break from the current project as I had a couple of updates to make in order to add a new feature to a Discord bot I maintain. So today I finished the updates and made a start on the new feature, with a bit of luck I can have the new feature ready for testing tomorrow. 
