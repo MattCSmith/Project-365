@@ -679,3 +679,9 @@ With limited time available today I decided to spend the time I had working thro
 ## DAY 136
 ### **Project:** Discord Bot
 Decided to take a little break from the current project as I had a couple of updates to make in order to add a new feature to a Discord bot I maintain. So today I finished the updates and made a start on the new feature, with a bit of luck I can have the new feature ready for testing tomorrow. 
+
+## DAY 137
+### **Project:** Discord Bot
+Today I finished coding the new feature for the Discord bot I was working on yesterday. I have done some basic testing of the new feature, however I still want to do some more testing before I push it live, but that is a job for tomorrow.
+
+
