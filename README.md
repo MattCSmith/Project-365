@@ -685,3 +685,6 @@ Decided to take a little break from the current project as I had a couple of upd
 Today I finished coding the new feature for the Discord bot I was working on yesterday. I have done some basic testing of the new feature, however I still want to do some more testing before I push it live, but that is a job for tomorrow.
 
 
+## DAY 138
+### **Project:** Discord Bot && GDS
+Today was a bit of a split day. I spent a little time testing out the Discord bot functionality, in which I think its ready to go live when I have time to monitor it in production for a little bit. I also spent some time today figuring out another one of Googles tools for webmasters/web marketers. Unfortunately I am not a fan of Googles Data Sudio... Its pretty difficult to figure out how to get the data you want. Perhaps I just need to experiment with it further. 
