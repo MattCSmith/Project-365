@@ -692,3 +692,7 @@ Today was a bit of a split day. I spent a little time testing out the Discord bo
 ## DAY 139
 ### **Project:** Multiple Projects
 Again today covered multiple projects including some minor tweaks to the Discord bot, making a start on a quick temp fix of the slow load on the Mongo DB issue and then making some considering and starting plans for a future project. 
+
+## DAY 140
+### **Project:** Challenged.Dev Backend
+Continued with the quick fix for the Mongo DB loading issue. I'm going to have the backend generate a JSON file periodically of the leaders, ready to serve to the front end upon request. This hopefuly should make the request alot quicker. 
