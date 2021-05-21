@@ -12,6 +12,10 @@ It would make my day if this encourages even one person to sign up to the 100 Da
 - Subscribe on [**Youtube**](https://www.youtube.com/channel/UCQnCh_U9PeXh_7FaxUB7Lsg) for periodic update videos.
 - [Other Links can be found here](https://linktr.ee/mattcsmith)
 
+## Shameless Plug
+[![](https://images.ctfassets.net/aq13lwl6616q/2fU4z36oCseTDi1KHAbZbv/6db2a17b155ec8303a57933f63360b44/Hero-WithText-2.jpeg)](https://bit.ly/tech-paths)
+Over at Zero To Mastery we just launched [Career Paths](https://bit.ly/tech-paths) to help our students find their personalised career path based on their previous experiences and ambitions. If you are looking for a personal roadmap into your chosen career or aren't sure which area of tech you want to pursue, go take the 3 minute quiz
+
 ## Day 1
 Spent a good couple of hours setting up and configuring Gatsby, Contentful and Netlify as the foundation to the first project.
 Worked a little on bringing the exisiting navbar and landing page to the newsite with Styled-Components.
