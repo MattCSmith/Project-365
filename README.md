@@ -700,3 +700,8 @@ Again today covered multiple projects including some minor tweaks to the Discord
 ## DAY 140
 ### **Project:** Challenged.Dev Backend
 Continued with the quick fix for the Mongo DB loading issue. I'm going to have the backend generate a JSON file periodically of the leaders, ready to serve to the front end upon request. This hopefuly should make the request alot quicker. 
+
+
+## DAY 141
+### **Project:** Challenged.Dev Backend
+For the most part I have finished the quick fix for speeding up the fetching of the leaders for the leaderboard. So far it seems to be working as expected, but I would like to spend a little more time testing and optimisign before pushing it live. 
