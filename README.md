@@ -705,3 +705,9 @@ Continued with the quick fix for the Mongo DB loading issue. I'm going to have t
 ## DAY 141
 ### **Project:** Challenged.Dev Backend
 For the most part I have finished the quick fix for speeding up the fetching of the leaders for the leaderboard. So far it seems to be working as expected, but I would like to spend a little more time testing and optimisign before pushing it live. 
+
+
+## DAY 142
+### **Project:** New Bot Project
+I spent the majority of today researching and planning a new fairly big project I want to finally make a start on. 
+I am hoping to run this new project side by side with the challenged project, although it might have to take a little more focus initially. 
