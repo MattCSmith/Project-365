@@ -711,3 +711,8 @@ For the most part I have finished the quick fix for speeding up the fetching of 
 ### **Project:** New Bot Project
 I spent the majority of today researching and planning a new fairly big project I want to finally make a start on. 
 I am hoping to run this new project side by side with the challenged project, although it might have to take a little more focus initially. 
+
+
+## DAY 143
+### **Project:** New Bot Project
+Made some good progress today in continuation of researching and planning out the upcoming project. 
