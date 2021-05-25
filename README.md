@@ -716,3 +716,8 @@ I am hoping to run this new project side by side with the challenged project, al
 ## DAY 143
 ### **Project:** New Bot Project
 Made some good progress today in continuation of researching and planning out the upcoming project. 
+
+
+## DAY 144
+### **Project:** New Bot Project
+Today I continued planning the massive bot project. For the most part I now have the bulk of it planned out and its really just a bunch of the little details left to go.
