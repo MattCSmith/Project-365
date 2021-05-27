@@ -725,3 +725,9 @@ Today I continued planning the massive bot project. For the most part I now have
 ## Day 145
 ### **Project:** New Bot Project
 Now that I have defined the rough outline of the project I spent today really starting to detail the requirements for each feature. I also spent some time brushing up and learning more backend best practices with the [ZTM's Node Course](https://bit.ly/ztmnode). I would highly recommend this course, Adam is a great instructor who really knows his stuff. 
+
+## Day 146
+### **Project:** New Bot Project
+Today I continued defining the requirements for each feature, whilst listening to more of the [ZTM's Node Course](https://bit.ly/ztmnode). I am finding it really useful that Adam is providing insight into architecting scalable backend applications.  
+
+
