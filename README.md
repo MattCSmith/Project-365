@@ -731,3 +731,6 @@ Now that I have defined the rough outline of the project I spent today really st
 Today I continued defining the requirements for each feature, whilst listening to more of the [ZTM's Node Course](https://bit.ly/ztmnode). I am finding it really useful that Adam is providing insight into architecting scalable backend applications.  
 
 
+## Day 147
+### **Project:** New Bot Project
+With limited time today, I didn't have a chance to study more of the node course. So I spent a little time defining more of the requirements of the new bot project. 
