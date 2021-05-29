@@ -734,3 +734,12 @@ Today I continued defining the requirements for each feature, whilst listening t
 ## Day 147
 ### **Project:** New Bot Project
 With limited time today, I didn't have a chance to study more of the node course. So I spent a little time defining more of the requirements of the new bot project. 
+
+## DAY 148
+### **Project:** New Bot Project
+I spent today researching Mongo Schema architecture and best practices. 
+
+
+## DAY 149
+### **Project:** New Bot Project
+Today I continued in my quest to learn more about Mongo, it's architecture ideals and best practices. 
