@@ -743,3 +743,7 @@ I spent today researching Mongo Schema architecture and best practices.
 ## DAY 149
 ### **Project:** New Bot Project
 Today I continued in my quest to learn more about Mongo, it's architecture ideals and best practices. 
+
+## DAY 150
+### **Project:** New Bot Project
+Utilising infromation from both the [ZTM Node Course](https://bit.ly/ztmnode) and various best practices articles I have cosumed over the last several days, I started figuring out the rough project architecture. 
