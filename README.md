@@ -747,3 +747,7 @@ Today I continued in my quest to learn more about Mongo, it's architecture ideal
 ## DAY 150
 ### **Project:** New Bot Project
 Utilising infromation from both the [ZTM Node Course](https://bit.ly/ztmnode) and various best practices articles I have cosumed over the last several days, I started figuring out the rough project architecture. 
+
+## Day 151
+### **Project:** Original Project
+Since I am not quite ready to go full steam into the new Bot project and I am still in need of a little break from the Challenged.Dev project. I decided to go back to a project I started earlier this year. I was actually amazed at how well this project had turned out considering I had only spent 15 days on it. So today I spent some time getting reaquainted with the application and started to make some minor imporvements. Tomorrow I am planning to finish off a couple of the remaining pages and hopefully make a decent start on the micro backend it required for some of the dynamic data. 
