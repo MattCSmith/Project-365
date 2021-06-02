@@ -751,3 +751,7 @@ Utilising infromation from both the [ZTM Node Course](https://bit.ly/ztmnode) an
 ## Day 151
 ### **Project:** Original Project
 Since I am not quite ready to go full steam into the new Bot project and I am still in need of a little break from the Challenged.Dev project. I decided to go back to a project I started earlier this year. I was actually amazed at how well this project had turned out considering I had only spent 15 days on it. So today I spent some time getting reaquainted with the application and started to make some minor imporvements. Tomorrow I am planning to finish off a couple of the remaining pages and hopefully make a decent start on the micro backend it required for some of the dynamic data. 
+
+## Day 152
+### **Project:** PBG App
+Made some pretty big progress today on this project. Finished off a bunch of pages and making sure any dead links actually land somewhere. Made some UI enhancements. Also considering trading a database for a content model in Contentful, since the data I actually need to store for this is limited and contentful would provide easy edit abiliity to other administrators. Going to sleep on the idea. 
