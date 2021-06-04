@@ -759,3 +759,8 @@ Made some pretty big progress today on this project. Finished off a bunch of pag
 ## Day 153
 ### **Project:** PBG App & Bot
 Today I mainly worked on PBG's Discord bot, adding functionality that can interact with the game servers, making it easier for the admin team to whitelist players and restart servers. I also tested out if Contentful could work as the database for the limited amount of data I need to stores. So far it seems to be a viable solution, although not perfect. But it does allow for easy CRUD for the non technical admin team. 
+
+
+## Day 154
+### **Project:** PBG App & Bot
+Today I worked on ensuring the app was responsive to a wide range of screen sizes and finished off a couple of the Contentful-Databse features. 
