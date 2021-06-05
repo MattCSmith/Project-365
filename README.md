@@ -764,3 +764,7 @@ Today I mainly worked on PBG's Discord bot, adding functionality that can intera
 ## Day 154
 ### **Project:** PBG App & Bot
 Today I worked on ensuring the app was responsive to a wide range of screen sizes and finished off a couple of the Contentful-Databse features. 
+
+## Day 155
+### **Project:** PBG App & Bot
+Today I built out the applications page and the bots API to recieve and process the application as require. 
