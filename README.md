@@ -768,3 +768,7 @@ Today I worked on ensuring the app was responsive to a wide range of screen size
 ## Day 155
 ### **Project:** PBG App & Bot
 Today I built out the applications page and the bots API to recieve and process the application as require. 
+
+## Day 156
+### **Project:** PBG App & Bot
+Today I continued on the applications page adding some more finishing touches and content. I also make the footer and main hero more mobile friendly. 
