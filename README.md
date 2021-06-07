@@ -772,3 +772,8 @@ Today I built out the applications page and the bots API to recieve and process 
 ## Day 156
 ### **Project:** PBG App & Bot
 Today I continued on the applications page adding some more finishing touches and content. I also make the footer and main hero more mobile friendly. 
+
+
+## Day 157
+### **Project:** PBG App & Bot
+Today I worked on making the index page more scrollable for mobile users. Having in excess of 80 cards to scroll to get past a section seemed a little bad for UX
