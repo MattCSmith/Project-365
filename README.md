@@ -777,3 +777,8 @@ Today I continued on the applications page adding some more finishing touches an
 ## Day 157
 ### **Project:** PBG App & Bot
 Today I worked on making the index page more scrollable for mobile users. Having in excess of 80 cards to scroll to get past a section seemed a little bad for UX
+
+
+## Day 158
+### **Project:** PBG App & Bot
+Today I worked on more mobile optimisations. Hopefully making the homepage fully optimised. 
