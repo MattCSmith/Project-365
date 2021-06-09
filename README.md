@@ -782,3 +782,7 @@ Today I worked on making the index page more scrollable for mobile users. Having
 ## Day 158
 ### **Project:** PBG App & Bot
 Today I worked on more mobile optimisations. Hopefully making the homepage fully optimised. 
+
+## Day 159
+### **Project:** PBG App & Bot
+Today I worked on ton more mobile optimisations, Making the server pages somewhat fully optimised. I also created the members page, aswell as adding a few little things that were missed along the way
