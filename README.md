@@ -786,3 +786,9 @@ Today I worked on more mobile optimisations. Hopefully making the homepage fully
 ## Day 159
 ### **Project:** PBG App & Bot
 Today I worked on ton more mobile optimisations, Making the server pages somewhat fully optimised. I also created the members page, aswell as adding a few little things that were missed along the way
+
+## Day 160
+### **Project:** PBG Bot
+Today I worked mainly on the Discord bot for PBG. I have pretty much fully implemented the application feature, that integrates with Contentful, using it as a micro database. 
+So far this seems to be working out and hopeful will allow the no technical team to be able to edit the members details easily from within Contentfuls UI.
+
