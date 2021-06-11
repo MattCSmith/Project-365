@@ -792,3 +792,7 @@ Today I worked on ton more mobile optimisations, Making the server pages somewha
 Today I worked mainly on the Discord bot for PBG. I have pretty much fully implemented the application feature, that integrates with Contentful, using it as a micro database. 
 So far this seems to be working out and hopeful will allow the no technical team to be able to edit the members details easily from within Contentfuls UI.
 
+
+## Day 161
+### **Project:** PBG Bot
+Again I mainly worked on the Discord bot again today, extended the application feature to automatically hand the post application approval process. 
